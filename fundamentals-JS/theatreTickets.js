@@ -39,5 +39,3 @@ calculateTickets("Weekend",44);
 calculateTickets("Weekend",82);
 calculateTickets("Weekday",92);
 calculateTickets("blah blah",14);
-//
-
